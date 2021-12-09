@@ -54,7 +54,7 @@ Shippig rules are set from db, the rule recorgnise the following sign <,>,=
 
 sample screen shot below
 
-
+<img src="https://buasales.com.1.png" width="350" title="screen shot">
 
 
 
