@@ -38,11 +38,11 @@ engine -> system core, all methods and classes managing the whole system
 
 java -> java files shared by all themes
 
-lang -> language file desgined to be recorednised automatically by browser, but for this project it will be managed from config file
+lang -> language file desgined to be recorgnised automatically by browser, but for this project it will be managed from config file
 
 log -> all error log are stored here by date
 
-plugin - > the file managing each section
+plugin - > the file managing each section of the app
 
 product - > where images are stored
 
