@@ -34,7 +34,7 @@ api -> public rest api relying on system core and configuration
 
 config -> configuration file
 
-engine -> system core, all methods and classes maging the whole system
+engine -> system core, all methods and classes managing the whole system
 
 java -> java files shared by all themes
 
